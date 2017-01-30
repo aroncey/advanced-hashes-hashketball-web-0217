@@ -188,21 +188,6 @@ def big_shoe_rebounds
 	rebounds
 end
 
-# def big_shoe_rebounds
-#   rebounds = 0
-#   shoe_size = 0
-#   game_hash.each do |location, team|
-#     team[:players].each do |player_hash|
-#       if player_hash[:shoe] > shoe_size
-#         shoe_size = player_hash[:shoe]
-#         rebounds = player_hash[:rebounds]
-#       end
-#     end
-#   end
-#   rebounds
-# end
-
-
 
 
 
